@@ -1,7 +1,3 @@
-Flask
-Flask-JWT-Extended
-Werkzeug
+flask
 gunicorn
 flask_cors
-
-
